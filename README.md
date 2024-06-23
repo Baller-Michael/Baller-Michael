@@ -5,10 +5,15 @@ I'm a Full stack developer passionate about ReactJS.
 ## Projects
 
 - Mastodon timeline
+
   Add your mastodon profile and show your timeline
+  
 - Movies
+- 
   Library of movies with rates that you can add to your watch list
+  
 - Tic tac toe
+- 
   Play the well-known game with a friend
   
 <!--
