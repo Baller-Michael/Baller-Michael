@@ -6,7 +6,6 @@ I'm a Full stack developer passionate about ReactJS.
 
 - JS; TypeScript; NodeJS; ReactJS; MeteorJS;
 - MongoDB; SQL; MySQL;
-- MongoDB; ElasticSearch;
 - Bootstrap; HTML/CSS; MaterialUI;
 - AWS S3; AWS DynamoDB;
 - Heroku; Meteor Cloud;
