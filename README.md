@@ -6,11 +6,11 @@ I'm a Full stack developer passionate about ReactJS.
 
 - JS; TypeScript; NodeJS; ReactJS; MeteorJS;
 - MongoDB; SQL; MySQL;
-● MongoDB; ElasticSearch;
-● Bootstrap; HTML/CSS; MaterialUI;
-● AWS S3; AWS DynamoDB;
-● Heroku; Meteor Cloud;
-● Git;
+- MongoDB; ElasticSearch;
+- Bootstrap; HTML/CSS; MaterialUI;
+- AWS S3; AWS DynamoDB;
+- Heroku; Meteor Cloud;
+- Git;
   
 <!--
 **Baller-Michael/Baller-Michael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
