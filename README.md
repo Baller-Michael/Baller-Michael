@@ -1,4 +1,4 @@
-<h1 align="center">## Hello!! I'm Michael Pavelchuk 👋</h1>
+<h1 align="center">## Welcome on Michael Pavelchuk page 👋</h1>
 
 <!--
 **Baller-Michael/Baller-Michael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
