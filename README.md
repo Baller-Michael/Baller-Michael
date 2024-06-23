@@ -1,4 +1,4 @@
-<h1 align="center"> Welcome on Michael Pavelchuk's page 👋</h1>
+<h1 align="center"> Welcome to Michael Pavelchuk's page 👋</h1>
 
 I'm a Full stack developer passionate about ReactJS. 
 
