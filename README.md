@@ -4,8 +4,8 @@ I'm a Full stack developer passionate about ReactJS.
 
 ## Skills
 
-● JS; TypeScript; NodeJS; ReactJS; MeteorJS;
-● MongoDB; SQL; MySQL;
+- JS; TypeScript; NodeJS; ReactJS; MeteorJS;
+- MongoDB; SQL; MySQL;
 ● MongoDB; ElasticSearch;
 ● Bootstrap; HTML/CSS; MaterialUI;
 ● AWS S3; AWS DynamoDB;
